@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goutam-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="goutam-kumar" /> </p>
 
-- 🔭 I’m currently working on [Allegion](https://www.allegion.com/corp/en/index.html)
-
 - 🌱 I’m currently learning **React Native, Flutter and Spring Boot**
 
 - 💬 Ask me about **Android, Kotlin**
