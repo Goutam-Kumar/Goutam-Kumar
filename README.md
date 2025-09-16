@@ -146,21 +146,17 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goutam-kumar&layout=compact&theme=radical&hide_border=true" alt="goutam-kumar" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=goutam-kumar&theme=radical&hide_border=true" alt="goutam-kumar" />
 </p>
 
 ---
-
+<!--
 <h2 align="center">🌟 Featured Projects</h2>
 
 *Coming soon - Showcase of mobile applications and backend services*
 
 ---
-
+-->
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/goutam-kumar">goutam-kumar</a></i>
+  <i>⭐️ From <a href="https://github.com/Goutam-Kumar">Goutam-Kumar</a></i>
 </p>
